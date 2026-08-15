@@ -58,14 +58,14 @@ I have published some papers at the top international AI conferences with total 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-## <a id="services"></a>Academic Services
+# Academic Services
 
 Conference Program Committee / Reviewer: 
 
 - EMNLP 2026
 - LASS Workshop @ ACM CIKM 2026
 
-## <a id="awards"></a>Selected Awards
+# Selected Awards
 
 - Outstanding Graduate of Liaoning Province, Department of Education of Liaoning Province, 2022, 2025
 - First-Class Academic Scholarship (Ranked 1st), NEU, 2022, 2023, 2024
@@ -75,7 +75,7 @@ Conference Program Committee / Reviewer:
 - Huawei Scholarship, Huawei Technologies Co., Ltd, 2023
 - Future Technology-Taihu Scholarship, NEU & Wuxi Science and Technology Bureau, 2023
 
-## <a id="misc"></a>Misc
+# Misc
 
 Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
 
