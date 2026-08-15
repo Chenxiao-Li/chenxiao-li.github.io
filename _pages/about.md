@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+👋Hi, there! I am currently a first-year PhD student advised by [Prof. Dr. Heng Fan](https://hengfan2010.github.io/) and co-advised by [Prof. Dr. Yunhe Feng](https://yunhefeng.me/) in the [Department of Computer Science and Engineering](https://engineering.unt.edu/cse/) at the [University of North Texas](https://www.unt.edu/index.html) (UNT), Denton, TX.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prior to this, I was a member of [IDKE](http://faculty.neu.edu.cn/zhangfu/zh_CN/more/133536/jsjjgd/) Lab and received my master's degree from [Northeastern University (CN)](https://www.neu.edu.cn/) in 2025, under the supervision of [Prof. Dr. Jingwei Cheng](https://scholar.google.com/citations?user=GrE0Q8gAAAAJ&hl=en), [Prof. Dr. Fu Zhang](https://scholar.google.com/citations?user=nYnHOqoAAAAJ), and [Prof. Dr. Qiang Tong](http://faculty.neu.edu.cn/tongq/zh_CN/index.htm).
+
+My research interests lie in **Multimodal Understanding and Reasoning in Complex Visual Scenarios**. I am dedicated to enhancing the fundamental capabilities of **Large Vision-Language Models (LVLMs)** through data-driven strategies, enabling them to actively perceive and comprehend multimodal information in open-world environments, while supporting robust knowledge integration, reasoning, and decision-making. I am particularly passionate about **Representation Learning** and **Semantic Modeling** across natural and structured data, including images, language, and knowledge. My goal is to advance LVLMs toward more general, reliable, and reasoning-intensive multimodal intelligence. Therefore, I focus on two complementary research directions in retrieval and ranking:
+
+(1) **Multimodal In-Context Learning** @ Multimodal Learning
+
+(2) **Multimodal Entity Alignment** @ Multimodal Knowledge Graphs
+
+Building upon this, I aim to extend my research to real-world applications in **Medicine** and **Robotics**, fostering trustworthy medical AI and embodied AI that enable more natural, reliable, and human-centered human–computer interaction.
+
+
+I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C6zKhQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+<span style="font-weight:bold; color: #9900cc;">
+		If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me!
+</span>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Jun. 2026*: &nbsp;🎉🎉 One paper is accepted at MICCAI 2026!
+- *Jun. 2026*: &nbsp;🚀🚀 Starting my PhD Journey.	
+- *Sep. 2025*: &nbsp;⚙️⚙️ My academic homepage has been launched. 
 
 # 📝 Publications 
 
@@ -42,17 +58,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## <a id="services"></a>Academic Services
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Conference Program Committee / Reviewer: 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- EMNLP 2026
+- LASS Workshop @ ACM CIKM 2026
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## <a id="awards"></a>Selected Awards
+
+- Outstanding Graduate of Liaoning Province, Department of Education of Liaoning Province, 2022, 2025
+- First-Class Academic Scholarship (Ranked 1st), NEU, 2022, 2023, 2024
+- National Scholarship (Graduate), Ministry of Education, 2024
+- Class Leader of the Outstanding Graduate Class, NEU, 2023, 2024
+- Outstanding Graduate Student, NEU, 2023, 2024
+- Huawei Scholarship, Huawei Technologies Co., Ltd, 2023
+- Future Technology-Taihu Scholarship, NEU & Wuxi Science and Technology Bureau, 2023
+
+## <a id="misc"></a>Misc
+
+Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
+
+I’m lucky to have a girlfriend who loves me dearly, and the profile picture is her adorable little dog. I use **Generative AI** to put my regular glasses on him.
+
+##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [GitHub](https://github.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/)
