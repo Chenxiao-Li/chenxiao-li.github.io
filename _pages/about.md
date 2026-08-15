@@ -44,7 +44,7 @@ I have published some papers at the top international AI conferences with total 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -56,7 +56,27 @@ I have published some papers at the top international AI conferences with total 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+(<sup>†</sup>Equal contribution, <sup>*</sup>Corresponding author)
+
+#### *PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding*
+Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>*</sup>  
+🎓 In: **MICCAI 2026** | 📄 Paper
+
+#### *Breaking the Noise Barrier: LLM-Guided Semantic Filtering and Enhancement for Multi-modal Entity Alignment*
+Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</sup>, Yongquan Ji, Guoqing Chen, and Fu Zhang  
+🎓 In: **EMNLP 2025 Main** | 📄 [Paper](https://aclanthology.org/2025.emnlp-main.1684.pdf)
+
+#### *Probing Relative Interaction and Dynamic Calibration in Multi-modal Entity Alignment*
+
+**Chenxiao Li**, Jingwei Cheng<sup>*</sup>, Qiang Tong, Fu Zhang, and Cairui Wang  
+🎓 In: **ACL 2025 Main** | 📄 [Paper](https://aclanthology.org/2025.acl-long.1384.pdf)
+
+#### *Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment*
+
+**Chenxiao Li**, Jingwei Cheng<sup>*</sup>, Qiang Tong, and Fu Zhang  
+🎓 In: **COLING 2025** | 📄 [Paper](https://aclanthology.org/2025.coling-main.522.pdf)
 
 # Academic Services
 
