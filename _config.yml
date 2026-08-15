@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxiao Li"
   avatar           : "images/smiledog.jpg"
-  bio              : "Univeristy of North Texas"
+  bio              : "ChenxiaoLi@my.unt.edu"
   location         : "Denton, United States"
   cv               : "/CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C6zKhQwAAAAJ&hl=en"
-  email            : "ChenxiaoLi@my.unt.edu"
+  email            : # "ChenxiaoLi@my.unt.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
