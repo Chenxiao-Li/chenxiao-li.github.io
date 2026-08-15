@@ -25,6 +25,7 @@ author:
   avatar           : "images/smiledog.jpg"
   bio              : "Univeristy of North Texas"
   location         : "Denton, United States"
+  cv               : "/CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C6zKhQwAAAAJ&hl=en"

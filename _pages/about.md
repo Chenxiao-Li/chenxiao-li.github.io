@@ -29,8 +29,7 @@ My research interests lie in **Multimodal Understanding and Reasoning in Complex
 
 Building upon this, I aim to extend my research to real-world applications in **Medicine** and **Robotics**, fostering trustworthy medical AI and embodied AI that enable more natural, reliable, and human-centered human–computer interaction.
 
-
-I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C6zKhQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total google scholar citations 260000+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C6zKhQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <span style="font-weight:bold; color: #9900cc;">
 		If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me!
@@ -76,7 +75,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 
 # Academic Services
 
-Conference Program Committee / Reviewer: EMNLP 2026, LASS Workshop @ ACM CIKM 2026
+**Conference Program Committee / Reviewer:** EMNLP 2026, LASS Workshop @ ACM CIKM 2026
 
 # Selected Awards
 
@@ -94,4 +93,4 @@ Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, e
 
 I’m lucky to have a girlfriend who loves me dearly, and the profile picture is her adorable little dog. I use **Generative AI** to put my regular glasses on him.
 
-##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [GitHub](https://github.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/)
+##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/)
