@@ -67,12 +67,10 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</
 🎓 In: **EMNLP 2025 Main** | 📄 [Paper](https://aclanthology.org/2025.emnlp-main.1684.pdf)
 
 **Probing Relative Interaction and Dynamic Calibration in Multi-modal Entity Alignment**  
-
 **Chenxiao Li**, Jingwei Cheng<sup>*</sup>, Qiang Tong, Fu Zhang, and Cairui Wang  
 🎓 In: **ACL 2025 Main** | 📄 [Paper](https://aclanthology.org/2025.acl-long.1384.pdf)
 
 **Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment**  
-
 **Chenxiao Li**, Jingwei Cheng<sup>*</sup>, Qiang Tong, and Fu Zhang  
 🎓 In: **COLING 2025** | 📄 [Paper](https://aclanthology.org/2025.coling-main.522.pdf)
 
