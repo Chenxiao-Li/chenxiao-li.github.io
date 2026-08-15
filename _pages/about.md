@@ -76,10 +76,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>*</
 
 # Academic Services
 
-Conference Program Committee / Reviewer: 
-
-- EMNLP 2026
-- LASS Workshop @ ACM CIKM 2026
+Conference Program Committee / Reviewer: EMNLP 2026, LASS Workshop @ ACM CIKM 2026
 
 # Selected Awards
 
