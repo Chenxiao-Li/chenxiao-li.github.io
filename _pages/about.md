@@ -41,6 +41,7 @@ Building upon this, I aim to extend my research to real-world applications in **
 - *Jun. 2026*: &nbsp;🚀🚀 Starting my PhD Journey.	
 - *Sep. 2025*: &nbsp;⚙️⚙️ My academic homepage has been launched. 
 
+<a id="publications"></a>
 # 📝 Publications (<sup>†</sup>Equal contribution, <sup>*</sup>Corresponding author)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -73,10 +74,12 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 **Chenxiao Li**, Jingwei Cheng<sup>\*</sup>, Qiang Tong, and Fu Zhang  
 🎓 In: ***COLING 2025*** | 📄 [Paper](https://aclanthology.org/2025.coling-main.522.pdf)
 
+<a id="academic-services"></a>
 # Academic Services
 
 **Conference Program Committee / Reviewer:** EMNLP 2026, LASS Workshop @ ACM CIKM 2026
 
+<a id="selected-awards"></a>
 # Selected Awards
 
 - Outstanding Graduate of Liaoning Province, Department of Education of Liaoning Province, 2022, 2025
@@ -87,6 +90,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 - Huawei Scholarship, Huawei Technologies Co., Ltd, 2023
 - Future Technology-Taihu Scholarship, NEU & Wuxi Science and Technology Bureau, 2023
 
+<a id="misc"></a>
 # Misc
 
 Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
