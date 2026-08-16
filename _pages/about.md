@@ -27,6 +27,14 @@ My research interests lie in **Multimodal Understanding and Reasoning in Complex
 
 (2) **Multimodal Entity Alignment** @ Multimodal Knowledge Graphs
 
+Across these, I am particularly interested in the following research problems:
+
+(1) Active Visual Understanding and Utilization
+
+(2) Robust Visual Information Filtering
+
+(3) Efficient Multimodal Learning and Reasoning
+
 Building upon this, I aim to extend my research to real-world applications in **Medicine** and **Robotics**, fostering trustworthy medical AI and embodied AI that enable more natural, reliable, and human-centered human–computer interaction.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total google scholar citations 260000+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C6zKhQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -95,6 +103,6 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 
 Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
 
-I’m lucky to have a girlfriend who loves me dearly, and the profile picture is her adorable little dog. I use **Generative AI** to put my regular glasses on him.
+I’m lucky to have a loving girlfriend, and the profile picture is her adorable little dog. I use **Generative AI** to put my regular glasses on him.
 
 ##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/)
