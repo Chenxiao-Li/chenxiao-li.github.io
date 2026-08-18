@@ -66,10 +66,8 @@ Building upon this, I aim to extend my research to real-world applications in **
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-**PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
-Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
-🎓 In: ***MICCAI 2026*** | 📄 Paper
-
+## Multimodal Entity Alignment
+---
 **Breaking the Noise Barrier: LLM-Guided Semantic Filtering and Enhancement for Multi-modal Entity Alignment**  
 Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*</sup>, Yongquan Ji, Guoqing Chen, and Fu Zhang  
 🎓 In: ***EMNLP 2025 Main*** | 📄 [Paper](https://aclanthology.org/2025.emnlp-main.1684.pdf)
@@ -81,6 +79,12 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 **Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment**  
 **Chenxiao Li**, Jingwei Cheng<sup>\*</sup>, Qiang Tong, and Fu Zhang  
 🎓 In: ***COLING 2025*** | 📄 [Paper](https://aclanthology.org/2025.coling-main.522.pdf)
+
+## AI4Medicine
+---
+**PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
+Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
+🎓 In: ***MICCAI 2026*** | 📄 Paper
 
 # Academic Services
 {: #academic-services }
