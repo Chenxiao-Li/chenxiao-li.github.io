@@ -109,4 +109,4 @@ Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, e
 
 I’m lucky to have a loving girlfriend, and the profile picture is her adorable little dog. I use **Generative AI** to put my regular glasses on him.
 
-##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/)
+##### Links: [LeetCode](https://leetcode.cn/) | [Carl](https://programmercarl.com/) | [Overleaf](https://overleaf.com/) | [OpenReview](https://openreview.net/) | [CCFDDL](https://ccfddl.top/) | [CSRankings](https://csrankings.org/#/index?all&us) | [Gmail](https://mail.google.com/) | [Outlook](https://outlook.cloud.microsoft/) | [myUNT](https://my.unt.edu/) | [UNT System](https://myhr.unt.edu/) | [CANVAS](https://unt.instructure.com/)
