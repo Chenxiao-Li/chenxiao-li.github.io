@@ -89,7 +89,7 @@ Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan,
 # Academic Services
 {: #academic-services }
 
-**Conference Program Committee / Reviewer:** EMNLP 2026, IAB @NeurIPS 2026 Workshop
+**Conference Program Committee / Reviewer:** EMNLP 2026, IAB @ NeurIPS 2026 Workshop
 
 # Selected Awards
 {: #selected-awards }
