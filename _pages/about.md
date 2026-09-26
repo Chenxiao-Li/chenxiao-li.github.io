@@ -88,7 +88,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 ---
 **PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
-🎓 In: ***MICCAI 2026*** | 📄 Paper
+🎓 In: ***MICCAI 2026*** | 📄 [Paper](https://papers.miccai.org/miccai-2026/paper/4084_paper.pdf)
 
 # Academic Services
 {: #academic-services }
