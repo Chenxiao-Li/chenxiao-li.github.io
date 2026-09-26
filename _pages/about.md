@@ -69,6 +69,10 @@ Building upon this, I aim to extend my research to real-world applications in **
 ## Multimodal Entity Alignment
 ---
 **Breaking the Noise Barrier: LLM-Guided Semantic Filtering and Enhancement for Multi-modal Entity Alignment**  
+**Chenxiao Li**, Yunhe Feng, Dongfang Liu, Dong Nie, Yan Huang, and Heng Fan<sup>\*</sup>  
+🎓 In: ***arXiv*** | 📄 [Paper](https://arxiv.org/pdf/2609.23267)
+
+**Breaking the Noise Barrier: LLM-Guided Semantic Filtering and Enhancement for Multi-modal Entity Alignment**  
 Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*</sup>, Yongquan Ji, Guoqing Chen, and Fu Zhang  
 🎓 In: ***EMNLP 2025 Main*** | 📄 [Paper](https://aclanthology.org/2025.emnlp-main.1684.pdf)
 
