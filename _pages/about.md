@@ -84,6 +84,12 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 **Chenxiao Li**, Jingwei Cheng<sup>\*</sup>, Qiang Tong, and Fu Zhang  
 🎓 In: ***COLING 2025*** | 📄 [Paper](https://aclanthology.org/2025.coling-main.522.pdf)
 
+## Visual Tracking
+---
+**LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking**  
+Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Libo Zhang, Xingping Dong<sup>\*</sup>, and Heng Fan<sup>\*</sup>  
+🎓 In: ***arXiv*** | 📄 [Paper](https://arxiv.org/pdf/2609.33306v1)
+
 ## AI4Medicine
 ---
 **PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
