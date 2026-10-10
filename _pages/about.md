@@ -92,7 +92,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Libo Zhang, Xingping Dong<sup>\*</sup>, and Heng Fan<sup>\*</sup>  
 🎓 In: ***arXiv*** | 📄 [Paper](https://arxiv.org/pdf/2609.33306v1)
 
-## AI for Medical Imaging
+## Medical Imaging AI
 ---
 **PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
