@@ -66,7 +66,7 @@ Building upon this, I aim to extend my research to real-world applications in **
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## Multimodal Retrieval and  Ranking
+## Multimodal Retrieval & Ranking
 ---
 **Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment**  
 **Chenxiao Li**, Yunhe Feng, Dongfang Liu, Dong Nie, Yan Huang, and Heng Fan<sup>\*</sup>  
