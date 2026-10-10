@@ -21,7 +21,7 @@ redirect_from:
 
 Prior to this, I was a member of [IDKE](http://faculty.neu.edu.cn/zhangfu/zh_CN/more/133536/jsjjgd/) Lab and received my master's degree from [Northeastern University (CN)](https://www.neu.edu.cn/) in 2025, under the supervision of [Prof. Dr. Jingwei Cheng](https://scholar.google.com/citations?user=GrE0Q8gAAAAJ&hl=en), [Prof. Dr. Fu Zhang](https://scholar.google.com/citations?user=nYnHOqoAAAAJ), and [Prof. Dr. Qiang Tong](http://faculty.neu.edu.cn/tongq/zh_CN/index.htm).
 
-My research interests lie in **Multimodal Understanding and Reasoning in Complex Visual Scenarios**. I am dedicated to enhancing the fundamental capabilities of **Large Vision-Language Models (LVLMs)** through data-driven strategies, enabling them to actively perceive and comprehend multimodal information in open-world environments, while supporting robust knowledge integration, reasoning, and decision-making. I am particularly passionate about **Representation Learning** and **Semantic Modeling** across natural and structured data, including images, language, and knowledge. My goal is to advance LVLMs toward more general, reliable, and reasoning-intensive multimodal intelligence. Therefore, I focus on two complementary research directions in retrieval and ranking:
+<!-- My research interests lie in **Multimodal Understanding and Reasoning in Complex Visual Scenarios**. I am dedicated to enhancing the fundamental capabilities of **Large Vision-Language Models (LVLMs)** through data-driven strategies, enabling them to actively perceive and comprehend multimodal information in open-world environments, while supporting robust knowledge integration, reasoning, and decision-making. I am particularly passionate about **Representation Learning** and **Semantic Modeling** across natural and structured data, including images, language, and knowledge. My goal is to advance LVLMs toward more general, reliable, and reasoning-intensive multimodal intelligence. Therefore, I focus on two complementary research directions in retrieval and ranking:
 
 (1) **Multimodal In-Context Learning** @ Multimodal Learning
 
@@ -35,7 +35,9 @@ Across these, I am particularly interested in the following research problems:
 
 (3) Efficient Multimodal Learning and Reasoning
 
-Building upon this, I aim to extend my research to real-world applications in **Medicine** and **Robotics**, fostering trustworthy medical AI and embodied AI that enable more natural, reliable, and human-centered human–computer interaction.
+Building upon this, I aim to extend my research to real-world applications in **Medicine** and **Robotics**, fostering trustworthy medical AI and embodied AI that enable more natural, reliable, and human-centered human–computer interaction. -->
+
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total google scholar citations 260000+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C6zKhQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -66,7 +68,7 @@ Building upon this, I aim to extend my research to real-world applications in **
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## Multimodal Entity Alignment
+## Multimodal Retrieval and  Ranking
 ---
 **Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment**  
 **Chenxiao Li**, Yunhe Feng, Dongfang Liu, Dong Nie, Yan Huang, and Heng Fan<sup>\*</sup>  
@@ -90,7 +92,7 @@ Chenglong Lu<sup>†</sup>, **Chenxiao Li**<sup>†</sup>, Jingwei Cheng<sup>\*<
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Libo Zhang, Xingping Dong<sup>\*</sup>, and Heng Fan<sup>\*</sup>  
 🎓 In: ***arXiv*** | 📄 [Paper](https://arxiv.org/pdf/2609.33306v1)
 
-## AI4Medicine
+## AI for Medical Imaging
 ---
 **PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding**  
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
@@ -99,7 +101,7 @@ Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan,
 # Academic Services
 {: #academic-services }
 
-**Conference Program Committee / Reviewer:** EMNLP 2026, IAB @ NeurIPS 2026 Workshop
+**Reviewer for:** NAACL 2027, IAB @ NeurIPS 2026 Workshop, EMNLP 2026
 
 # Selected Awards
 {: #selected-awards }
