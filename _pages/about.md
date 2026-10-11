@@ -21,11 +21,11 @@ redirect_from:
 
 Prior to this, I was a member of [IDKE](http://faculty.neu.edu.cn/zhangfu/zh_CN/more/133536/jsjjgd/) Lab and received my master's degree from [Northeastern University (CN)](https://www.neu.edu.cn/) in 2025, under the supervision of [Prof. Dr. Jingwei Cheng](https://scholar.google.com/citations?user=GrE0Q8gAAAAJ&hl=en), [Prof. Dr. Fu Zhang](https://scholar.google.com/citations?user=nYnHOqoAAAAJ), and [Prof. Dr. Qiang Tong](http://faculty.neu.edu.cn/tongq/zh_CN/index.htm).
 
-Multimodal Learning, Spatial Intelligence, Robotics, AI4Medicine, Knowledge Graph
+<!-- Multimodal Learning, Spatial Intelligence, Robotics, AI4Medicine, Knowledge Graph
 
 Multimodal Understanding and Reasoning in Complex Visual Scenarios, Large Vision-Language Models (LVLMs), data-driven strategies, Representation Learning, Semantic Modeling, retrieval and ranking
 
-Active Visual Understanding and Utilization, Robust Visual Information Filtering, Efficient Multimodal Learning and Reasoning
+Active Visual Understanding and Utilization, Robust Visual Information Filtering, Efficient Multimodal Learning and Reasoning -->
 
 <!-- My research interests lie in **Multimodal Understanding and Reasoning in Complex Visual Scenarios**. I am dedicated to enhancing the fundamental capabilities of **Large Vision-Language Models (LVLMs)** through data-driven strategies, enabling them to actively perceive and comprehend multimodal information in open-world environments, while supporting robust knowledge integration, reasoning, and decision-making. I am particularly passionate about **Representation Learning** and **Semantic Modeling** across natural and structured data, including images, language, and knowledge. My goal is to advance LVLMs toward more general, reliable, and reasoning-intensive multimodal intelligence. Therefore, I focus on two complementary research directions in retrieval and ranking:
 
