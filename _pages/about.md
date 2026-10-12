@@ -104,12 +104,12 @@ Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Libo Zhang, Xingping Don
 Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan, Zhipeng Zhang, and Xingping Dong<sup>\*</sup>  
 🎓 In: ***MICCAI 2026*** | 📄 [Paper](https://papers.miccai.org/miccai-2026/paper/4084_paper.pdf)
 
-# Academic Services
+# 🤓 Academic Services
 {: #academic-services }
 
 **Reviewer for:** NAACL 2027, IAB @ NeurIPS 2026 Workshop, EMNLP 2026
 
-# Selected Awards
+# 🏅 Selected Awards
 {: #selected-awards }
 
 - Outstanding Graduate of Liaoning Province, Department of Education of Liaoning Province, 2022, 2025
@@ -120,7 +120,7 @@ Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan,
 - Huawei Scholarship, Huawei Technologies Co., Ltd, 2023
 - Future Technology-Taihu Scholarship, NEU & Wuxi Science and Technology Bureau, 2023
 
-# Misc
+# 🎨 Misc
 {: #misc }
 
 Beyond my academic pursuits, I find joy in running🏃, playing badminton🏸, exploring new places🏞️ and experimenting in the kitchen🍳.
