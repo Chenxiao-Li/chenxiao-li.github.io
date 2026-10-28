@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi, there! I am currently a first-year PhD student advised by [Prof. Dr. Heng Fan](https://hengfan2010.github.io/) and co-advised by [Prof. Dr. Yunhe Feng](https://yunhefeng.me/) in the [Department of Computer Science and Engineering](https://engineering.unt.edu/cse/) at the [University of North Texas](https://www.unt.edu/index.html) (UNT), Denton, TX. 
+👋Hi there! I am currently a first-year PhD student advised by [Prof. Dr. Heng Fan](https://hengfan2010.github.io/) and co-advised by [Prof. Dr. Yunhe Feng](https://yunhefeng.me/) in the [Department of Computer Science and Engineering](https://engineering.unt.edu/cse/) at the [University of North Texas](https://www.unt.edu/index.html) (UNT), Denton, TX. 
 
 Prior to this, I was a member of [IDKE](http://faculty.neu.edu.cn/zhangfu/zh_CN/more/133536/jsjjgd/) Lab and received my master's degree from [Northeastern University (CN)](https://www.neu.edu.cn/) in 2025, under the supervision of [Prof. Dr. Jingwei Cheng](https://scholar.google.com/citations?user=GrE0Q8gAAAAJ&hl=en), [Prof. Dr. Fu Zhang](https://scholar.google.com/citations?user=nYnHOqoAAAAJ), and [Prof. Dr. Qiang Tong](http://faculty.neu.edu.cn/tongq/zh_CN/index.htm). My three years there were filled with systematic research training and wonderful memories, which became one of the key reasons I aspired to become a researcher.
 
