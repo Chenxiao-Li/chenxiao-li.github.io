@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxiao Li"
   avatar           : "images/profile.png"
-  bio              : "ChenxiaoLi@my.unt.edu"
+  bio              : "ChenxiaoLi [at] my [dot] unt [dot] edu"
   location         : "Denton, TX, United States"
   cv               : "/CV.pdf"
   employer         :
