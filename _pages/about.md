@@ -107,7 +107,7 @@ Liang Peng<sup>†</sup>, **Chenxiao Li**<sup>†</sup>,Shaohua Dong, Bohan Tan,
 # 🤓 Academic Services
 {: #academic-services }
 
-**Reviewer for:** NAACL 2027, IAB @ NeurIPS 2026 Workshop, EMNLP 2026
+**Reviewer for:** ICLR 2027, IAB @ NeurIPS 2026 Workshop, EMNLP 2026
 
 # 🏅 Selected Awards
 {: #selected-awards }
